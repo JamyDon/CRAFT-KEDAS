@@ -1,0 +1,9 @@
+alg_name: "IKE"
+model_name: "./hugging_cache/Qwen/Qwen2.5-7B-Instruct"
+sentence_model_name: "./hugging_cache/sentence-transformers/all-MiniLM-L6-v2-777"
+device: 0
+results_dir: "./results"
+
+k: 8
+training_data_path: "../../data/ZsRE/zsre_mend_train_10000.json"
+max_length: 1024

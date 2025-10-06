@@ -1,0 +1,7 @@
+alg_name: "EREN"
+results_dir: "./results"
+device: 0
+model_name: "./hugging_cache/Llama-3.1-8B-Instruct"
+retriever_name: "./hugging_cache/facebook/contriever"
+max_length: 20 # 20 is the default value for EREN
+num_context_examples: 5 # 5 is the default value for EREN

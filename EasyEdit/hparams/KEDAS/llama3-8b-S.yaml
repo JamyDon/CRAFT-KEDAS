@@ -1,0 +1,24 @@
+# Method
+alg_name: "KEDAS"
+results_dir: "./results"
+
+# Ablation  
+editing_time_augmentation: true
+self_adaptive_post_alignment_inference: true
+with_filter: true
+alignment: true
+
+# Vector Database
+ike_top_k: 3
+search_top_k: 8
+data_cache_path: "../../data/preprocessed_CRAFT/CRAFT-Statistical-test500.json"
+dist_fn: euc
+
+# Module templates
+device: 0
+model_name: "llama-3.1-8b-instruct"
+filter_model_name: "../../checkpoints/filter/CRAFT_bert/best_model"
+base_model_name: "./hugging_cache/meta-llama/Llama-3.1-8B-Instruct"
+sentence_model_name: "./hugging_cache/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+lora_model_name: "../../checkpoints/alignment/lte/Llama-3.1-8B-Instruct-CRAFT-LTE"
+max_length: 2048
