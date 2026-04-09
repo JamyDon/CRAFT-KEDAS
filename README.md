@@ -27,7 +27,7 @@ export OPENAI_API_KEY=<your-api-key>
 ```
 
 ## The CRAFT Dataset
-The CRAFT dataset used for experiments in our paper is located in `data/CRAFT`, which is constructed based on the 25Q1 raw data.
+The CRAFT dataset used for experiments in our paper is located in `data/CRAFT`, which is constructed during 25Q1.
 
 For detailed data construction, please refer to `CRAFT/README.md`.
 
