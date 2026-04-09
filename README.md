@@ -97,3 +97,17 @@ for BASELINE in ${BASELINES[@]}; do
         > ${RESULT_DIR}/CRAFT-F_${BASELINE}_${SUFFIX}.txt
 done
 ```
+
+## Citation
+If you find our work useful, feel free to cite our paper:
+```bib
+@misc{tang2025aligninglanguagemodelsrealtime,
+      title={Aligning Language Models with Real-time Knowledge Editing}, 
+      author={Chenming Tang and Yutong Yang and Kexue Wang and Yunfang Wu},
+      year={2025},
+      eprint={2508.01302},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.01302}, 
+}
+```
