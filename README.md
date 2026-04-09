@@ -1,6 +1,8 @@
-# Aligning Language Models with Real-time Knowledge Editing
+# CRAFT & KEDAS
 
-These are the data and source code for CRAFT & KEDAS. The code is primarily based on the EasyEdit framework with some modifications to be compatible for some methods and settings.
+These are the data and source code for our ACL 2026 (main conference) paper: **Aligning Language Models with Real-time Knowledge Editing**.
+
+The code is primarily based on the EasyEdit framework with some modifications to be compatible for some methods and settings.
 
 ## Prerequisites
 
