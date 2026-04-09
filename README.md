@@ -1,5 +1,9 @@
 # CRAFT & KEDAS
 
+[![arXiv](https://img.shields.io/badge/arXiv-2508.01302-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.01302)
+[![Hugging Face Collection](https://img.shields.io/badge/CRAFT_Dataset-3B4252?style=flat&logo=huggingface)](https://huggingface.co/datasets/JamyDohrn/CRAFT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?logo=apache)](LICENSE)
+
 These are the data and source code for our ACL 2026 (main conference) paper: **Aligning Language Models with Real-time Knowledge Editing**.
 
 The code is primarily based on the EasyEdit framework with some modifications to be compatible for some methods and settings.
