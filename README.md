@@ -105,13 +105,24 @@ done
 ## Citation
 If you find our work useful, feel free to cite our paper:
 ```bib
-@misc{tang2025aligninglanguagemodelsrealtime,
-      title={Aligning Language Models with Real-time Knowledge Editing}, 
-      author={Chenming Tang and Yutong Yang and Kexue Wang and Yunfang Wu},
-      year={2025},
-      eprint={2508.01302},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2508.01302}, 
+@inproceedings{tang-etal-2026-aligning,
+    title = "Aligning Language Models with Real-time Knowledge Editing",
+    author = "Tang, Chenming  and
+      Yang, Yutong  and
+      Wang, Kexue  and
+      Wu, Yunfang",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.14/",
+    doi = "10.18653/v1/2026.acl-long.14",
+    pages = "363--378",
+    ISBN = "979-8-89176-390-6"
 }
 ```
