@@ -1,5 +1,6 @@
 # CRAFT & KEDAS
 
+[![arXiv](https://img.shields.io/badge/ACL_2026_Long-14-red.svg)](https://aclanthology.org/2026.acl-long.14/)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.01302-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.01302)
 [![Hugging Face Collection](https://img.shields.io/badge/CRAFT_Dataset-3B4252?style=flat&logo=huggingface)](https://huggingface.co/datasets/JamyDohrn/CRAFT)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?logo=apache)](LICENSE)
